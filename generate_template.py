@@ -1,5 +1,6 @@
 """"
-@author:
+@author: William Richard
+@email: oantawilliam@gmail.com
 """
 class TemplateTree(object):
     """
